@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\liqh\\Documents\\GitHub\\learn_c_the_hard_way\\build",
+            "binaryPath": "c:\\Users\\liqh\\Documents\\GitHub\\learn_c_the_hard_way\\build\\ex1",
+            "binaryArgs": []
+        }
+    ]
+}
